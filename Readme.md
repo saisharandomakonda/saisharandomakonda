@@ -4,7 +4,7 @@
   </a>
 </p>
 
-<h1 align="center">👋 Hey, I'm Sai — Builder • Engineer • Indie Founder</h1>
+<h1 align="center">👋 Hey, I'm Sai - Builder • Engineer • Indie Founder</h1>
 <h3 align="center">I build the tools everyone else wishes existed — fast, sharp, and actually useful.</h3>
 
 ---
