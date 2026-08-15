@@ -1,7 +1,7 @@
-<a href="https://github.com/saisharan0103">
+<a href="https://github.com/saisharandomakonda">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/saisharan0103/saisharan0103/main/assets/profile-dark.svg">
-    <img alt="Sai Sharan — AI Engineer and Systems Builder" src="https://raw.githubusercontent.com/saisharan0103/saisharan0103/main/assets/profile-light.svg" width="100%">
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/saisharandomakonda/saisharandomakonda/main/assets/profile-dark.svg">
+    <img alt="Sai Sharan — AI Engineer and Systems Builder" src="https://raw.githubusercontent.com/saisharandomakonda/saisharandomakonda/main/assets/profile-light.svg" width="100%">
   </picture>
 </a>
 
@@ -12,10 +12,10 @@
 
 ## Selected systems
 
-- **[Deepwork for Windsurf](https://github.com/saisharan0103/windsurf-deepwork)** — an evidence-first quality and safety layer for difficult coding work in Cascade.
-- **[Codex Control Center](https://github.com/saisharan0103/codex-control-center)** — a local-first operations dashboard for durable, auditable Codex CLI runs.
-- **[DevGuild Agent](https://github.com/saisharan0103/devguild-agent)** — a Discord-native coding teammate that turns developer threads into issues, fixes, and pull requests.
-- **[Workflow-to-Agent](https://github.com/saisharan0103/workflow-to-agent)** — an AI-readiness and intent-API system for enterprise workflow automation.
+- **[Deepwork for Windsurf](https://github.com/saisharandomakonda/windsurf-deepwork)** — an evidence-first quality and safety layer for difficult coding work in Cascade.
+- **[Codex Control Center](https://github.com/saisharandomakonda/codex-control-center)** — a local-first operations dashboard for durable, auditable Codex CLI runs.
+- **[DevGuild Agent](https://github.com/saisharandomakonda/devguild-agent)** — a Discord-native coding teammate that turns developer threads into issues, fixes, and pull requests.
+- **[Workflow-to-Agent](https://github.com/saisharandomakonda/workflow-to-agent)** — an AI-readiness and intent-API system for enterprise workflow automation.
 
 ## Working set
 

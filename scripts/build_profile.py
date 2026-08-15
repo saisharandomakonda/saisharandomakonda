@@ -18,7 +18,7 @@ from urllib.request import Request, urlopen
 
 ROOT = Path(__file__).resolve().parents[1]
 ASSETS = ROOT / "assets"
-USERNAME = os.getenv("PROFILE_USERNAME", "saisharan0103")
+USERNAME = os.getenv("PROFILE_USERNAME", "saisharandomakonda")
 DISPLAY_NAME = os.getenv("PROFILE_DISPLAY_NAME", "Sai Sharan")
 TOKEN = os.getenv("GITHUB_TOKEN") or os.getenv("GH_TOKEN")
 API = "https://api.github.com"
