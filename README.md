@@ -23,4 +23,3 @@
 
 > Building AI systems that actually get used - not demos.
 
-<sub>The profile card refreshes from the GitHub API. <a href="https://github.com/Andrew6rant/Andrew6rant"></a>.</sub>
